@@ -288,6 +288,7 @@ button:focus {outline:0;}
 
 .left-section {
     width: 50%;
+    padding-top: 50px;
     height: 800px;
     display: block;
     float: left;
